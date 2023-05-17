@@ -17,6 +17,10 @@ Tracking individuals is a vital part of many experiments conducted to understand
 
 </div>
 
+## Dataset
+
+Dataset will be published as a part of the MOTChallenge. 
+
 ## Installation
 
 1. Clone and enter this repository:
