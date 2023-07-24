@@ -19,7 +19,7 @@ Tracking individuals is a vital part of many experiments conducted to understand
 
 ## Dataset
 
-Dataset will be published as a part of the MOTChallenge. 
+Dataset can be accessed from [MOTChallenge](https://motchallenge.net/data/DAMUNT/) web site.  
 
 ## Installation
 
